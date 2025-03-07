@@ -11,7 +11,7 @@ Windows OS
 .NET Framework 4.8 (pode já estar instalado no Windows 10/11)
 
 Licença
-Licença MIT
+Licença GPL
 
 Notas
 Este repositório inclui o executável e todos os arquivos gerados para conveniência.
