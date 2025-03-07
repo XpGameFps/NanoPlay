@@ -1,0 +1,9 @@
+C:\NanoPlay\NanoPlay\bin\Debug\NanoPlay.exe.config
+C:\NanoPlay\NanoPlay\bin\Debug\NanoPlay.exe
+C:\NanoPlay\NanoPlay\bin\Debug\NanoPlay.pdb
+C:\NanoPlay\NanoPlay\obj\Debug\NanoPlay.csproj.AssemblyReference.cache
+C:\NanoPlay\NanoPlay\obj\Debug\NanoPlay.Properties.Resources.resources
+C:\NanoPlay\NanoPlay\obj\Debug\NanoPlay.csproj.GenerateResource.cache
+C:\NanoPlay\NanoPlay\obj\Debug\NanoPlay.csproj.CoreCompileInputs.cache
+C:\NanoPlay\NanoPlay\obj\Debug\NanoPlay.exe
+C:\NanoPlay\NanoPlay\obj\Debug\NanoPlay.pdb
